@@ -1,6 +1,5 @@
 package com.tarasov.shoplist.presentation
 
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.tarasov.shoplist.data.ShopListRepositoryImpl
 import com.tarasov.shoplist.domain.DeleteShopItemUseCase
